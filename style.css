@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+body{
+  background-image: url("https://th.bing.com/th/id/R.241b163a97278032f364287aad274738?rik=O0mcMjMOcFciug&pid=ImgRaw&r=0");
+}
 .flower {
   height: 200px;
   width: 200px;
